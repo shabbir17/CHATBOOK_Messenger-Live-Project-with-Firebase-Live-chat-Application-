@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946137973045",
+    "project_id": "chatbook-e0d85",
+    "storage_bucket": "chatbook-e0d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946137973045:android:9f6af2233bfd012e9a4c7c",
+        "android_client_info": {
+          "package_name": "com.example.chatbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946137973045-tgkcuttolt24tkn2dr192vtoh8re6gq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwL3vKCUJI_2YFuDGpjHpRYpeavhZxIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946137973045-tgkcuttolt24tkn2dr192vtoh8re6gq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
