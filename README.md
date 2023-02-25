@@ -3,8 +3,7 @@
 ⚡ UI Done with Flutter and Dart<br>
 ⚡ UI/UX design<br>
 
-### 🌱 Here user can play card game.
-![Game4 master](https://user-images.githubusercontent.com/68172428/221183420-720ffede-cfa7-4e7c-bd3f-37b595e1bbec.png)
+
 
 
 
